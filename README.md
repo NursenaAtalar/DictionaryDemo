@@ -1,3 +1,3 @@
 # DictionaryDemo
-#Engin Demiroğ-Nitelikli Yazılımcı Geliştirme Kampı
+#Engin Demiroğ-Nitelikli Yazılım Geliştirici Kampı 
 #4.Gün Ödevi
